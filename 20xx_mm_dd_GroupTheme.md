@@ -7,7 +7,7 @@ Members:
 
 
 # Project 1 Descriptive Name
-Sub-project Lead: Name 1 - undergraduate_researcher@louisiana.edu
+Sub-project Lead: Name 1 - undergraduate_researcher@louisiana.edu    
 Additional Members:
 * Name 2 - undergraduate_researcher2@louisiana.edu
 
