@@ -10,6 +10,7 @@ Members:
 Sub-project Lead: Name 1 - undergraduate_researcher@louisiana.edu    
 Additional Members:
 * Name 2 - undergraduate_researcher2@louisiana.edu
+* Name 3 - undergraduate_researcher3@louisiana.edu
 
 ## Long-term Project Goal
 ...
