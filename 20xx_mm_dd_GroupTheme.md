@@ -41,9 +41,9 @@ You can also manage the figure size by writing the `html` directly. This is show
 
 
 ## Plan for the next two weeks
-* What are your next steps?
-* What work do you expect to have done by next report? What results to you expect?
-* Are we on schedule with respect to the GitHub Project and/or Gantt Chart?
+### What are your next steps?
+### What work do you expect to have done by next report? What results to you expect?
+### Are we on schedule with respect to the GitHub Project and/or Gantt Chart?
 
 
 # Project 2 Descriptive Name
@@ -62,9 +62,9 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 
 ## Plan for the next two weeks
-* What are your next steps?
-* What work do you expect to have done by next report? What results to you expect?
-* Are we on schedule with respect to the GitHub Project and/or Gantt Chart?
+### What are your next steps?
+### What work do you expect to have done by next report? What results to you expect?
+### Are we on schedule with respect to the GitHub Project and/or Gantt Chart?
 
 
 # Project 3 Descriptive Name
@@ -83,9 +83,9 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 
 ## Plan for the next two weeks
-* What are your next steps?
-* What work do you expect to have done by next report? What results to you expect?
-* Are we on schedule with respect to the GitHub Project and/or Gantt Chart?
+### What are your next steps?
+### What work do you expect to have done by next report? What results to you expect?
+### Are we on schedule with respect to the GitHub Project and/or Gantt Chart?
 
 
 
